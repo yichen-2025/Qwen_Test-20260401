@@ -48,7 +48,6 @@
 - `numpy`
 - `pandas`
 - `sklearn`
-- `numpy`
 - `torch`
 - `transformers`
 
