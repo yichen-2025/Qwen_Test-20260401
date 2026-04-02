@@ -43,7 +43,6 @@ def eval_result(result_file_path):
 
 
 if __name__ == "__main__":
-    pass
     # 第一步：处理原始数据集
     # process_raw_datasets(原始数据集路径)
     process_raw_datasets("raw_datasets/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv")
